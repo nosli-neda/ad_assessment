@@ -28,4 +28,4 @@ The script will generate 3 files:
  - Risk_<domain_name>.html
 
 
-https://github.com/nosli-neda/ad_assessment/blob/main/Images/Image1.jpg
+https://raw.githubusercontent.com/nosli-neda/ad_assessment/main/Images/Image1.jpg
