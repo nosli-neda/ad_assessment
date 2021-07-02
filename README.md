@@ -26,3 +26,6 @@ The script will generate 3 files:
  - Assessment_<domain_name>.html
  - Detail_<domain_name>.html
  - Risk_<domain_name>.html
+
+
+https://github.com/nosli-neda/ad_assessment/blob/main/Images/Image1.jpg
