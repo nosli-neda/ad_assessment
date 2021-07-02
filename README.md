@@ -30,7 +30,9 @@ The script will generate 3 files:
 # Samples Images
 
 ![Assessment 1](https://raw.githubusercontent.com/nosli-neda/ad_assessment/main/Images/Image1.jpg?raw=true)
-<hr>
+
 ![Assessment 1](https://raw.githubusercontent.com/nosli-neda/ad_assessment/main/Images/Image2.jpg?raw=true)
+
 ![Assessment 1](https://raw.githubusercontent.com/nosli-neda/ad_assessment/main/Images/Image3.jpg?raw=true)
+
 ![Assessment 1](https://raw.githubusercontent.com/nosli-neda/ad_assessment/main/Images/Image4.jpg?raw=true)
