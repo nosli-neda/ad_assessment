@@ -17,3 +17,12 @@ Some security flaws it detects:
   - List of Trusts;
   - Possible Kerberoasting Accounts;
   - Date of last password change for the KRBTGT user
+
+# How to use
+
+To run the scan, just run the script ad_sec_assessment.ps1 on a machine authenticated in the domain and wait for completion.
+
+The script will generate 3 files:
+ - Assessment_<domain_name>.html
+ - Detail_<domain_name>.html
+ - Risk_<domain_name>.html
